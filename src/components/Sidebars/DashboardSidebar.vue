@@ -13,7 +13,7 @@
 		:class="['ant-layout-sider-' + sidebarColor, 'ant-layout-sider-' + sidebarTheme]"
 		theme="light"
 		:style="{ backgroundColor: 'transparent',}">
-			<div class="brand"><img src="images/logo-ct-black.png" alt=""> <span>Muse Dashboard</span></div>
+			<div class="brand"><img src="images/logo-ct-black.png" alt=""> <span>Your Dashboard</span></div>
 			<hr>
 
 			<!-- Sidebar Navigation Menu -->
@@ -52,7 +52,7 @@
 						<span class="label">Billing</span>
 					</router-link>
 				</a-menu-item>
-				<a-menu-item>
+				<!-- <a-menu-item>
 					<router-link to="/rtl">
 						<span class="icon">
 							<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -61,7 +61,7 @@
 						</span>
 						<span class="label">RTL</span>
 					</router-link>
-				</a-menu-item>
+				</a-menu-item> -->
 				<a-menu-item class="menu-item-header">
 					Account Pages
 				</a-menu-item>
@@ -111,7 +111,7 @@
 			<!-- / Sidebar Navigation Menu -->
 
 			<!-- Sidebar Footer -->
-			<div class="aside-footer">
+			<!-- <div class="aside-footer">
 				<div class="footer-box">
 					<span class="icon">
 						<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -126,7 +126,7 @@
 						DOCUMENTATION
 					</a-button>
 				</div>
-			</div>
+			</div> -->
 			<!-- / Sidebar Footer -->
 
 	</a-layout-sider>

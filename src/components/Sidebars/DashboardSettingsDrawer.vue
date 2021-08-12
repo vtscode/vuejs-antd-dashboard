@@ -51,7 +51,7 @@
 				<h6>Navbar Fixed</h6>
 				<a-switch default-checked v-model="navbarFixedModel" @change="$emit('toggleNavbarPosition', navbarFixedModel)" />
 			</div>
-			<div class="download">
+			<!-- <div class="download">
 				<a-button type="dark" href="https://www.creative-tim.com/product/muse-vue-ant-design-dashboard" block target="_blank">FREE DOWNLOAD</a-button>
 				<a-button type="secondary" href="https://demos.creative-tim.com/muse-vue-ant-design-dashboard/documentation" block target="_blank">VIEW DOCUMENTATION</a-button>
 			</div>
@@ -70,7 +70,7 @@
 						SHARE
 					</a-button>
 				</div>
-			</div>
+			</div> -->
 		</div>
 		<!-- / Settings Drawer Content -->
 

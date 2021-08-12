@@ -56,7 +56,7 @@
 		
 		<!-- Copyright Notice -->
 		<p class="copyright">
-			Copyright © 2021 Muse
+			Copyright © 2021
 			by <a href="https://creative-tim.com">Creative Tim</a>.
 		</p>
 		<!-- / Copyright Notice -->
